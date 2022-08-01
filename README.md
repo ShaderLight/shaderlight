@@ -12,4 +12,7 @@ I'm also very eager to learn new languages and frameworks.
 
 
 ---
+[LeetCode Profile](https://leetcode.com/ShaderLight/)
+
+
 <sub>Language icons source: https://github.com/abrahamcalf/programming-languages-logos</sub>
